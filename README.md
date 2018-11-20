@@ -8,6 +8,7 @@ https://gitmoji.carloscuesta.me
 |-------------------|----|-----------------------------------------|
 | :hankey: | `:hankey:` |Writing bad code that needs to be improved.|
 | :tada: | `:tada:` |Initial commit.|
+| :sparkles: | `:sparkles:` |New features.|
 | :wrench: | `:wrench:` |Changing configuration files.|
 | :lipstick: | `:lipstick:` |Updating the UI and style files.|
 | :pencil2: | `:pencil2:` |Fixing typos.|
