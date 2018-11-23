@@ -1,8 +1,9 @@
 # commit-symbol
 
 ## example
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
 
-https://gitmoji.carloscuesta.me
+- https://gitmoji.carloscuesta.me
 
 |emoji              |moji|mean                                     |
 |-------------------|----|-----------------------------------------|
